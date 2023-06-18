@@ -1,0 +1,10 @@
+C:\Users\Modz2014\Desktop\KEyGEn\obj\Debug\net472\Keygen.csproj.AssemblyReference.cache
+C:\Users\Modz2014\Desktop\KEyGEn\obj\Debug\net472\Keygen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Modz2014\Desktop\KEyGEn\obj\Debug\net472\Keygen.csproj.CoreCompileInputs.cache
+C:\Users\Modz2014\Desktop\KEyGEn\bin\Debug\net472\KeyMaker.exe.config
+C:\Users\Modz2014\Desktop\KEyGEn\bin\Debug\net472\KeyMaker.exe
+C:\Users\Modz2014\Desktop\KEyGEn\bin\Debug\net472\KeyMaker.pdb
+C:\Users\Modz2014\Desktop\KEyGEn\obj\Debug\net472\KeyMaker.exe
+C:\Users\Modz2014\Desktop\KEyGEn\obj\Debug\net472\KeyMaker.pdb
+C:\Users\Modz2014\Desktop\KEyGEn\obj\Debug\net472\Keygen.csproj.GenerateResource.cache
+C:\Users\Modz2014\Desktop\KEyGEn\obj\Debug\net472\KeyGen.KeyGenForm.resources
